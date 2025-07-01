@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://6bug.org/'
 languageCode = 'zh-cn'
 title = '六重漏洞'
 theme = 'hugo-theme-stack'
