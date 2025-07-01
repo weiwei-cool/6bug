@@ -1,7 +1,6 @@
 baseURL = 'https://6bug.org/'
 languageCode = 'zh-cn'
 title = '六重漏洞'
-theme = 'hugo-theme-stack'
 
 DefaultContentLanguage = 'zh-cn'
 
@@ -30,6 +29,9 @@ limit = 10
 
 [[params.widgets.page]]
 type = "toc"
+
+[[module.imports]]
+path = "github.com/CaiJimmy/hugo-theme-stack/v3"
 
 [permalinks]
 post = '/p/:slug/'

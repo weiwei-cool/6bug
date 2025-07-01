@@ -27,7 +27,7 @@ _testmain.go
 *.test
 
 public
-themes
+themes/hugo-theme-stack/exampleSite
 resources
 
 assets/jsconfig.json
