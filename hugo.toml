@@ -30,6 +30,10 @@ limit = 10
 [[params.widgets.page]]
 type = "toc"
 
+[params.article.license]
+enabled = true
+default = 'CC BY-NC-ND 4.0'
+
 [[module.imports]]
 path = "github.com/CaiJimmy/hugo-theme-stack/v3"
 

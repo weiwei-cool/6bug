@@ -4,8 +4,6 @@ description: 关于枕水忧云
 date: '2025-07-01'
 aliases:
   - about
-license: CC BY-NC-ND
-# lastmod: '2020-10-09'
 menu:
     main:
         name: 关于
