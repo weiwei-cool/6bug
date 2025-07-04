@@ -1,6 +1,9 @@
 ---
 title: 链接
 date: 2025-01-01
+slug: 'links'
+layout: 'links'
+description: 博客六重漏洞的链接页面，展示枕水忧云的相关链接。
 links:
   - title: GitHub
     description: 我的GitHub主页链接，这里会有开源项目.

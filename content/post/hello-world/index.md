@@ -1,7 +1,7 @@
 ---
 title: HelloWorld
 date: '2025-07-01'
-description: 一些小小的心得和创建博客的缘由
+description: 枕水忧云的一些小小的心得和创建博客的缘由。
 image: 'cover.jpg'
 categories:
   - 杂谈

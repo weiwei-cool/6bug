@@ -1,6 +1,8 @@
 ---
 title: 关于
-description: 关于枕水忧云
+description: 关于博客六重漏洞和作者枕水忧云。
+slug: 'about'
+layout: 'about'
 date: '2025-07-01'
 aliases:
   - about
