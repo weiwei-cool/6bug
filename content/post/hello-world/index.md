@@ -1,7 +1,7 @@
 ---
-title: HelloWorld
+title: 六重漏洞：枕水忧云的技术与感悟之旅
 date: '2025-07-01'
-description: 枕水忧云的一些小小的心得和创建博客的缘由。
+description: 枕水忧云的一些小小的心得和创建博客的缘由，记录编程探索、算法学习与个人成长的点滴思考。
 image: 'cover.jpg'
 categories:
   - 杂谈
