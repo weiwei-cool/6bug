@@ -1,6 +1,6 @@
 baseURL = 'https://www.6bug.org/'
 languageCode = 'zh-cn'
-title = '六重漏洞'
+title = '六重漏洞：技术·成长·实践笔记'
 
 DefaultContentLanguage = 'zh-cn'
 
